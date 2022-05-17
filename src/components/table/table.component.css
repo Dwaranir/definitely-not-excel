@@ -1,0 +1,15 @@
+th {
+  background-color: #eee;
+  position: sticky;
+  top: -1px;
+  z-index: 2;
+}
+
+th {
+  cursor: pointer;
+}
+
+.filter,
+input {
+  width: 100%;
+}
